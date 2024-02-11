@@ -1,12 +1,12 @@
 [
   {
-    "internalName": "morghttpclient_mz4zF_NJ0YVLE0sI0",
-    "hash": "8fd2b751c0bc731a00c56e6885634e7cc4902fe9b3e3317f349d1854b134b08d",
-    "size": 10544,
+    "internalName": "example",
+    "hash": "2ebc3fe934c8d4553711aa27be25b49cefcb2919463eee90319f45bcbfd4b9bc",
+    "size": 2302,
     "plugins": [
-      "ca.codeinstitution.runelite.BetterHTTP"
+      "com.example"
     ],
-    "displayName": "Better Morg HTTP",
+    "displayName": "Example",
     "description": "",
     "provider": "codeinstitution"
   }
