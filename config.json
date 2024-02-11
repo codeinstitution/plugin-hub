@@ -1,0 +1,13 @@
+[
+  {
+    "internalName": "morghttpclient_mz4zF_NJ0YVLE0sI0",
+    "hash": "8fd2b751c0bc731a00c56e6885634e7cc4902fe9b3e3317f349d1854b134b08d",
+    "size": 10544,
+    "plugins": [
+      "ca.codeinstitution.runelite.BetterHTTP"
+    ],
+    "displayName": "Better Morg HTTP",
+    "description": "",
+    "provider": "codeinstitution"
+  }
+]
