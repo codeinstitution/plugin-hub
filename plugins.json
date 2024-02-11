@@ -1,7 +1,7 @@
 [
   {
     "internalName": "example-1.0-SNAPSHOT",
-    "hash": "8cfe5e97d118ae7736256f2e655f1d06ba0b6d0144febf73d852dd207a71456e",
+    "hash": "cf9fabd9d253233513aaf1e6bc8e30db769ffcad1167cdc59bfece3659e62b29",
     "size": 1008,
     "plugins": [
       "com.example.HttpServerPlugin"
