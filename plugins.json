@@ -1,12 +1,12 @@
 [
   {
     "internalName": "example-1.0-SNAPSHOT",
-    "hash": "39cd41cf8cbebebbafa6cbed53e52da0559dc60dbcb8c301205e4307d56b5cf8",
-    "size": 24882,
+    "hash": "3d2cc004ea59f591653f70e388e8d7ba5be074fe9aa53914d52478d500242df5",
+    "size": 25517,
     "plugins": [
       "com.example.HttpServerPlugin"
     ],
-    "displayName": "Best HttpServerPlugin",
+    "displayName": "Best HttpServerPlugin 1",
     "description": "",
     "provider": "codeinstitution"
   }
