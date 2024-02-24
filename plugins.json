@@ -6,7 +6,7 @@
     "plugins": [
       "com.example.HttpServerPlugin"
     ],
-    "displayName": "Best HttpServerPlugin",
+    "displayName": "Best HttpServerPlugin 1",
     "description": "",
     "provider": "codeinstitution"
   }
